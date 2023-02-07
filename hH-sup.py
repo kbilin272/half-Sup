@@ -286,12 +286,7 @@ def main():
         ##### By:
         + [Kaja Bilińska](mailto:k.bilinska@intibs)
         """)
-        
-        # add github QR code to this repo
-        #         + **[Kaja Bilińska](https://www.youtube.com/channel/UCDn-FahQNJQOekLrOcR7-7Q)**
-                ### NLP Simple Examples (App with Streamlit and TextBlob)
+            
 
-    
-
-if __name__ == '__main__':
-	main()
+# if __name__ == '__main__':
+# 	main()
