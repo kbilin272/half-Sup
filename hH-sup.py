@@ -279,8 +279,9 @@ def main():
         st.write("")
         st.write("")
         
-        st.image('git_qr.png', width = 250, caption = 'Git repository of half-Sup')
-
+        #st.image('git_qr.png', width = 250, caption = 'Git repository of half-Sup')
+	# https://github.com/kbilin272/half-Sup/
+	
         st.markdown("""
         
         ##### By:
